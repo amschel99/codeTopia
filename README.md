@@ -2,7 +2,7 @@ Welcome to Code Quest, the ultimate destination for student programmers! Join ou
 
 #### REQUIREMENTS
     
-        User registration and login system
+    User registration and login system
     Avatar creation and customization options
     Interactive coding classes and tutorials, including videos and puzzle games
     In-platform communication tools, such as chat and video call
